@@ -1,5 +1,5 @@
-🚀 Projeto de Estudo Flask + Vue.js (CDN)
-Este projeto é uma API básica com Flask que se comunica com um front-end em Vue.js (via CDN). O objetivo é estudar e fixar os conceitos fundamentais do Flask e testar uma estrutura simples para projetos futuros.
+🚀 Projeto de Estudo Flask + Vue.js
+Este projeto é uma API básica com Flask que se comunica com um front-end em Vue.js. O objetivo é estudar e fixar os conceitos fundamentais do Flask e testar uma estrutura simples para projetos futuros.
 
 🧠 Objetivo
 Testar a integração entre Flask e Vue.js via chamadas HTTP (fetch)
